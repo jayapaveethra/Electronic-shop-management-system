@@ -1,0 +1,88 @@
+c:\users\balaji.aislyn\documents\visual studio 2013\Projects\Electronic_shop\Electronic_shop\bin\Debug\Electronic_shop.exe.config
+c:\users\balaji.aislyn\documents\visual studio 2013\Projects\Electronic_shop\Electronic_shop\bin\Debug\Electronic_shop.exe
+c:\users\balaji.aislyn\documents\visual studio 2013\Projects\Electronic_shop\Electronic_shop\bin\Debug\Electronic_shop.pdb
+c:\users\balaji.aislyn\documents\visual studio 2013\Projects\Electronic_shop\Electronic_shop\bin\Debug\Electronic_shop.xml
+c:\users\balaji.aislyn\documents\visual studio 2013\Projects\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Form1.resources
+c:\users\balaji.aislyn\documents\visual studio 2013\Projects\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Form2.resources
+c:\users\balaji.aislyn\documents\visual studio 2013\Projects\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Form3.resources
+c:\users\balaji.aislyn\documents\visual studio 2013\Projects\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Form4.resources
+c:\users\balaji.aislyn\documents\visual studio 2013\Projects\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Form5.resources
+c:\users\balaji.aislyn\documents\visual studio 2013\Projects\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Form6.resources
+c:\users\balaji.aislyn\documents\visual studio 2013\Projects\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Resources.resources
+c:\users\balaji.aislyn\documents\visual studio 2013\Projects\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.vbproj.GenerateResource.Cache
+c:\users\balaji.aislyn\documents\visual studio 2013\Projects\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.exe
+c:\users\balaji.aislyn\documents\visual studio 2013\Projects\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.xml
+c:\users\balaji.aislyn\documents\visual studio 2013\Projects\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.pdb
+c:\users\balaji.aislyn\documents\visual studio 2013\Projects\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Form7.resources
+E:\mini project\15-10-2018 desgin code\Electronic_shop\Electronic_shop\bin\Debug\Electronic_shop.exe.config
+E:\mini project\15-10-2018 desgin code\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.exe
+E:\mini project\15-10-2018 desgin code\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.xml
+E:\mini project\15-10-2018 desgin code\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.pdb
+E:\mini project\15-10-2018 desgin code\Electronic_shop\Electronic_shop\bin\Debug\Electronic_shop.exe
+E:\mini project\15-10-2018 desgin code\Electronic_shop\Electronic_shop\bin\Debug\Electronic_shop.pdb
+E:\mini project\15-10-2018 desgin code\Electronic_shop\Electronic_shop\bin\Debug\Electronic_shop.xml
+E:\mini project\15-10-2018 desgin code\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Form1.resources
+E:\mini project\15-10-2018 desgin code\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Form2.resources
+E:\mini project\15-10-2018 desgin code\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Form3.resources
+E:\mini project\15-10-2018 desgin code\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Form4.resources
+E:\mini project\15-10-2018 desgin code\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Form5.resources
+E:\mini project\15-10-2018 desgin code\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Form6.resources
+E:\mini project\15-10-2018 desgin code\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Form7.resources
+E:\mini project\15-10-2018 desgin code\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Resources.resources
+E:\mini project\15-10-2018 desgin code\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.vbproj.GenerateResource.Cache
+E:\mini project\15-10-2018 desgin code\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Form8.resources
+E:\mini project\15-10-2018 desgin code\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Form9.resources
+D:\full_code electronic shop\Electronic_shop\Electronic_shop\bin\Debug\Electronic_shop.exe.config
+D:\full_code electronic shop\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.exe
+D:\full_code electronic shop\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.xml
+D:\full_code electronic shop\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.pdb
+D:\full_code electronic shop\Electronic_shop\Electronic_shop\bin\Debug\Electronic_shop.exe
+D:\full_code electronic shop\Electronic_shop\Electronic_shop\bin\Debug\Electronic_shop.pdb
+D:\full_code electronic shop\Electronic_shop\Electronic_shop\bin\Debug\Electronic_shop.xml
+D:\full_code electronic shop\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Form1.resources
+D:\full_code electronic shop\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Form2.resources
+D:\full_code electronic shop\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Form3.resources
+D:\full_code electronic shop\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Form4.resources
+D:\full_code electronic shop\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Form6.resources
+D:\full_code electronic shop\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Form7.resources
+D:\full_code electronic shop\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Form8.resources
+D:\full_code electronic shop\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Form9.resources
+D:\full_code electronic shop\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Resources.resources
+D:\full_code electronic shop\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Form5.resources
+D:\full_code electronic shop\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.vbproj.GenerateResource.Cache
+E:\full_code electronic shop\Electronic_shop\Electronic_shop\bin\Debug\Electronic_shop.exe.config
+E:\full_code electronic shop\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.exe
+E:\full_code electronic shop\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.xml
+E:\full_code electronic shop\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.pdb
+E:\full_code electronic shop\Electronic_shop\Electronic_shop\bin\Debug\Electronic_shop.exe
+E:\full_code electronic shop\Electronic_shop\Electronic_shop\bin\Debug\Electronic_shop.pdb
+E:\full_code electronic shop\Electronic_shop\Electronic_shop\bin\Debug\Electronic_shop.xml
+E:\full_code electronic shop\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Login.resources
+E:\full_code electronic shop\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Stock_details.resources
+E:\full_code electronic shop\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Add_stock_details.resources
+E:\full_code electronic shop\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Check_availability.resources
+E:\full_code electronic shop\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.User_order.resources
+E:\full_code electronic shop\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Customer_registration.resources
+E:\full_code electronic shop\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.User_payment.resources
+E:\full_code electronic shop\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Feedback.resources
+E:\full_code electronic shop\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Resources.resources
+E:\full_code electronic shop\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.vbproj.GenerateResource.Cache
+E:\full_code electronic shop\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.View_details.resources
+E:\electronic shop mini project\Electronic_shop\Electronic_shop\bin\Debug\Electronic_shop.exe.config
+E:\electronic shop mini project\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.exe
+E:\electronic shop mini project\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.xml
+E:\electronic shop mini project\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.pdb
+E:\electronic shop mini project\Electronic_shop\Electronic_shop\bin\Debug\Electronic_shop.exe
+E:\electronic shop mini project\Electronic_shop\Electronic_shop\bin\Debug\Electronic_shop.pdb
+E:\electronic shop mini project\Electronic_shop\Electronic_shop\bin\Debug\Electronic_shop.xml
+E:\electronic shop mini project\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Login.resources
+E:\electronic shop mini project\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Stock_details.resources
+E:\electronic shop mini project\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Add_stock_details.resources
+E:\electronic shop mini project\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Check_availability.resources
+E:\electronic shop mini project\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.User_order.resources
+E:\electronic shop mini project\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Customer_registration.resources
+E:\electronic shop mini project\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.User_payment.resources
+E:\electronic shop mini project\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Feedback.resources
+E:\electronic shop mini project\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.Resources.resources
+E:\electronic shop mini project\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.View_details.resources
+E:\electronic shop mini project\Electronic_shop\Electronic_shop\obj\Debug\Electronic_shop.vbproj.GenerateResource.Cache
